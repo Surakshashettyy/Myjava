@@ -1,6 +1,7 @@
 //Find area(l*b) and perimeter(2*(l+b)) of rectangle
+
 import java.util.Scanner;
-public class LanguageQ3 {
+public class W1LanguageQ3 {
     public static void main(String args[]){
         Scanner obj=new Scanner(System.in);
         int l=obj.nextInt();

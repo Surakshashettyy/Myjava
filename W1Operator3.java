@@ -1,4 +1,4 @@
-public class Operator3 
+public class W1Operator3 
 {
     public static void main(String args[])
     {

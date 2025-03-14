@@ -1,4 +1,4 @@
-public class Datatypes2 {
+public class W1Datatypes2 {
 
     public class Main{
         public static void main(String args[])

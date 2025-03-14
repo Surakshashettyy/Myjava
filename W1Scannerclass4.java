@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Scannerclass4 {
+public class W1Scannerclass4 {
     public static void main(String args[])
     {
         Scanner obj=new Scanner(System.in); //System.in used for taking input from the console
