@@ -8,7 +8,6 @@ public class W1LanguageQ4 {
 
         double tempInCel=(tempInFah-32)*5/9; //condition
 
-System.out.println(TempInCel);
+System.out.println(tempInCel);
     }
-    
 }
