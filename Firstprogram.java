@@ -7,3 +7,4 @@ public class Firstprogram
         System.out.println("Hello World!");
     }
 }
+//Output: Hello World!
