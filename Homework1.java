@@ -1,14 +1,18 @@
 //Enter two numbers and perform all arithmetic operations
 
 import java.util.Scanner;
-public class Homework1{
+public class Homework1 {
     public static void main(String args[])
     {
         Scanner obj=new Scanner(System.in);
-        char a=obj.next().charAt(0);
+        int a=obj.nextInt();
         int b=obj.nextInt();
-        
-        System.out.println(a);
-        System.out.println(b);
+
+        System.out.println("The sum of a and b is: " +(a+b)); //System.out.println(a+b);
+        System.out.println("The subtraction of a and b is: " +(a-b));
+        System.out.println("The multiplication of a and b is: " +(a*b));
+        System.out.println("The quotient of a and b is: " +(a/b));
+        System.out.println("The modulus of a and b is: " +(a%b));
     }
-}
+} 
+

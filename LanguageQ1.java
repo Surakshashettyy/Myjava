@@ -1,3 +1,5 @@
+//print C and 24
+
 import java.util.Scanner;
 public class LanguageQ1 {
     public static void main(String args[])
