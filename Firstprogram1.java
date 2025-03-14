@@ -1,5 +1,5 @@
 //public - public property can be used by anyone 
-public class Firstprogram
+public class Firstprogram1
 {
     public static void main(String args[])
     {
