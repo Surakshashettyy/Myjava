@@ -1,4 +1,5 @@
-public class W2Maxnum{
+//Max of 2 numbers
+public class W2Maxnum2{
     public static void main(String args[]){
         int a=6;
         int b=6;
