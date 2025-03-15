@@ -12,8 +12,8 @@ public class W1LanguageQ5 {
         int e=obj.nextInt();
 
         int total=a+b+c+d+e;
-        int average=total/5;
-        int percentage=(total*100)/500;
+        double average=total/5;
+        double percentage=(total/5); //int percentage=(total*100)/500;
 
         System.out.println(total);
         System.out.println(average);
