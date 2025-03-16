@@ -3,9 +3,9 @@ public class W2switchcase {
     public static void main(String args[]){
 
         Scanner obj=new Scanner(System.in);
-        int month=obj.nextInt();
+        int day=obj.nextInt();
 
-        switch(month){
+        switch(day){
             case 1:
             System.out.println("Monday");
             break;
