@@ -1,7 +1,6 @@
 //Print "FizzBuzz" if i is divisible by 3 and 5, print "Fizz" if i is divisible by 3, print "Buzz" if i is divisible by 5, else print i.
 
-    import java.util.Scanner;
-
+import java.util.Scanner;
 public class W2fizzbuzz {
     public static void main(String args[]){
         Scanner obj = new Scanner(System.in);
